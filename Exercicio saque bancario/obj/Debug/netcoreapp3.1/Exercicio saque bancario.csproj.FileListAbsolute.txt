@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\bin\Debug\netcoreapp3.1\Exercicio saque bancario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio saque bancario\Exercicio saque bancario\obj\Debug\netcoreapp3.1\Exercicio saque bancario.genruntimeconfig.cache
